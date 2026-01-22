@@ -1,0 +1,1 @@
+Enter the string to store in the file
