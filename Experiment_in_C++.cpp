@@ -36,5 +36,10 @@ int main(){
     display(vec);
     cout<<endl;
     display(lst);
+    // vec.sort();
+    lst.reverse();
+    cout<<endl;
+    display(lst);
+    
 
 }
